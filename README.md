@@ -15,3 +15,7 @@ This is a good example of [my code](https://gist.github.com/whitepieceofpaper/46
 ### Colab Example
 
 this is the [notebook](https://github.com/whitepieceofpaper/technical-discussion/blob/main/technical_docs.ipynb)
+
+
+### Image
+<img width="247" height="272" alt="image" src="https://github.com/user-attachments/assets/dc6505aa-ca8b-43f2-a2f3-839d3a6d1ee9" />
